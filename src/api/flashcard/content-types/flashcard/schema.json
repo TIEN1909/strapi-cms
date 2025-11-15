@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "flashcards",
+  "info": {
+    "singularName": "flashcard",
+    "pluralName": "flashcards",
+    "displayName": "flashcard"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "question": {
+      "type": "text"
+    },
+    "vietnamese": {
+      "type": "text"
+    },
+    "answer": {
+      "type": "text"
+    },
+    "answerVi": {
+      "type": "text"
+    },
+    "example": {
+      "type": "text"
+    }
+  }
+}
